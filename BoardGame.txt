@@ -1,0 +1,14 @@
+Rules are:
+1) You cannot go back before the Start space.
+2) If you reach the end, regardless of how many more steps you have to go, you win.
+3) Winner gets to be the next rulemaster, and add one more rule to the boardgame.
+4) First round has three rules.  Two of the rules must comply to the following restrictions:
+*  First rule must move at least one piece forward in response to a played card.
+*  Second rule must move at least one piece back in response to a played card.
+** These cards are taken from 2 piles in the game for easy mode.  Hard mode can be custom.
+5) The rulemaster must keep the rules secret.
+6) Each player draws 3 playing cards at the beginning of the round.
+7) On the beginning of their turn, they draw one card.
+8) During the turn, the player plays one card, and the rulemaster moves players pieces based on his/her rules.
+9) The played card is placed on the top of the discard pile.
+10) When you run out of cards, shuffle the discard pile and put it back to the play stack.
