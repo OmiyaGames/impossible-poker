@@ -7,30 +7,31 @@ Start:
 1) Designate one player as the rulemaster.
 2) The rulemaster secretly creates 3 rules that follows the guidelines (listed at the bottom).
 3) Determine the order that the rest of the players play.
-4) Draw 3 cards for each player.
+4) Draw 5 cards for each player.
 5) Hand out 5 chips to each player.
 
 How to play:
-1) All players draw one card.
-2) All players put one chip in the middle of the table.
-3) In order, the players can raise their number of chips.
+1) All players put one chip in the middle of the table.
+2) All players plays a card at the same time.
+3) The rulemaster lets the players know who is winning (if there's a tie, the rulemaster must indicate who is tying).
+4) In order, the players can raise their number of chips.
 *  If this happens, the rest of the players must either
 * 1) raise up to that player's pile,
 * 2) go all in if the player no longer have enough chips, or
-* 3) fold, forfeiting their turn and losing their chips on the table.
-4) Any player that hasn't folded then plays a card at the same time.
-* Note: if only one player is left, that player automatically wins, and takes all the chips.
-5) Rulemaster, going by the rules, declares a winner, and gives all the chips to the winner.
+* 3) fold, forfeiting their turn and losing their opportunity to play their next card.
+5) Any player that hasn't folded then plays another card at the same time.
+6) Rulemaster, going by the rules, declares a winner, and gives all the chips to the winner.
 * If there are ties, the rulemaster will distribute the chips as evenly as possible. They can select where the bias goes.
-6) All played cards are then discarded, and a new round begins.
-7) The player with all the chips wins, and becomes the new rulemaster.
-8) The last set of rules are secretly communicated to the next rulemaster, and the new rulemaster adds one more new rule.
-9) Finally, the new rulemaster collects all the cards and chips from the players and discard pile, reshuffles the deck, and hands out 3 cards and 5 chips, beginning a new session.
+7) All played cards are then discarded.
+8) All players draw two cards, and a new round begins.
+9) The player with all the chips wins, and becomes the new rulemaster.
+10) The last set of rules are secretly communicated to the next rulemaster, and the new rulemaster adds one more new rule.
+11) Finally, the new rulemaster collects all the cards and chips from the players and discard pile, reshuffles the deck, and hands out 3 cards and 5 chips, beginning a new session.
 
 Rule guidelines:
-The rules should determine the winner based on how everyone plays during that round.  Additionally, the cumulative effect of all the rules must designate at least one winner.  Ties are allowed, though this should be avoided as much as possible.
+The rules should determine the winner based on how everyone plays during that round.  Additionally, the cumulative effect of all the rules must designate at least one winner.  Ties are allowed, though this should be avoided as much as possible.  Rules are allowed to let those who fold win, but if there are more than one person who folded, the first person to fold cannot win the chips.
 
 example:
-* highest card wins the pot
-* clubs are trump
-* aces are low
+* highest cumulative card wins the pot.
+* clubs gives ten extra points per card.
+* aces are low ones.
