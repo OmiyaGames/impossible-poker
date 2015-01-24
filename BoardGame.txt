@@ -1,16 +1,36 @@
 Pre-requisites:
-1) 4 or more people.
-2) There's one rulemaster.
-3) Other players receive 5 chips.
-4) Rulemaster starts with 3 rules.
+* A deck of playing cards.
+* Some poker chips or similar tokens.
+* 4 or more players.
 
-Rules are:
-1) All players start with 3 cards each round.
-2) All players chip in at least one chip in the beginning.
-3) If one player plays the most chips than others, the other players must call or raise.
-4) All player plays one card.
-5) Rulemaster, going by the rules, distributes the money to the winner (there is always one winner).
+Start:
+1) Designate one player as the rulemaster.
+2) The rulemaster secretly creates 3 rules that follows the guidelines (listed at the bottom).
+3) Determine the order that the rest of the players play.
+4) Draw 3 cards for each player.
+5) Hand out 5 chips to each player.
 
-highest card wins the pot
-clubs are tump
-aces are low
+How to play:
+1) All players draw one card.
+2) All players put one chip in the middle of the table.
+3) In order, the players can raise their number of chips.
+*  If this happens, the rest of the players must either
+* 1) raise up to that player's pile,
+* 2) go all in if the player no longer have enough chips, or
+* 3) fold, forfeiting their turn and losing their chips on the table.
+4) Any player that hasn't folded then plays a card at the same time.
+* Note: if only one player is left, that player automatically wins, and takes all the chips.
+5) Rulemaster, going by the rules, declares a winner, and gives all the chips to the winner.
+* If there are ties, the rulemaster will distribute the chips as evenly as possible. They can select where the bias goes.
+6) All played cards are then discarded, and a new round begins.
+7) The player with all the chips wins, and becomes the new rulemaster.
+8) The last set of rules are secretly communicated to the next rulemaster, and the new rulemaster adds one more new rule.
+9) Finally, the new rulemaster collects all the cards and chips from the players and discard pile, reshuffles the deck, and hands out 3 cards and 5 chips, beginning a new session.
+
+Rule guidelines:
+The rules should determine the winner based on how everyone plays during that round.  Additionally, the cumulative effect of all the rules must designate at least one winner.  Ties are allowed, though this should be avoided as much as possible.
+
+example:
+* highest card wins the pot
+* clubs are trump
+* aces are low
